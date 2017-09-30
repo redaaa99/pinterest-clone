@@ -1,0 +1,4 @@
+{
+  "dbUri": "mongodb://redaaa:redaader99@ds157964.mlab.com:57964/pinterest-clone",
+  "jwtSecret": " a secret phrase!"
+}
